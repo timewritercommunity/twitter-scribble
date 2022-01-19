@@ -49,9 +49,9 @@
    id="namedview6851"
    showgrid="false"
    inkscape:snap-global="false"
-   inkscape:zoom="0.11313709"
-   inkscape:cx="959.01357"
-   inkscape:cy="-1493.7631"
+   inkscape:zoom="0.45254834"
+   inkscape:cx="1002.1029"
+   inkscape:cy="654.07377"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
@@ -1133,7 +1133,13 @@ x0rirXyxV3zxV//Z</xmpGImg:image>
    id="g6828-1"
    transform="matrix(0.52974962,0,0,0.52974962,260.61488,-30.123212)" /><g
    id="g6832-7"
-   transform="matrix(0.52974962,0,0,0.52974962,260.61488,-30.123212)" /><g
+   transform="matrix(0.52974962,0,0,0.52974962,260.61488,-30.123212)" /><rect
+   style="fill:#ffffff"
+   id="rect85272"
+   width="1208.7107"
+   height="685.0097"
+   x="-3.3145831"
+   y="-5.7343041e-06" /><g
    id="g60946"
    transform="matrix(2.170123,0,0,2.170123,2071.9668,665.24241)"
    inkscape:export-filename="/home/tvg/day0.png"
